@@ -1,1 +1,0 @@
-Intrusion and prevention detection system based on log analysis form local authentication logs.
