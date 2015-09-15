@@ -12,7 +12,7 @@ python-matplotlib
 libgtk-3-dev
 mysql-python
 
-Before you start, have a look to **config.py** file, some things needs to be configured first (DB, emails, email server, file paths...)
+Before you start, have a look at **config.py** file, some things needs to be configured first (DB, emails, email server, file paths...)
 
 **Start program:**
 python Startup.py
